@@ -10,22 +10,14 @@ class DataFetcher:
         self.data_json = None
 
     def fetch_csv(self):
-        try:
-            response = requests.get(self.csv_url)
-            response.raise_for_status()  
+        response = requests.get(self.csv_url)
+        response.raise_for_status()
 
-            csv_data = StringIO(response.text)
-            self.data_csv = pd.read_csv(csv_data)
-            print("CSV data fetched successfully.")
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching CSV: {e}")
+        csv_data = StringIO(response.text)
+        self.data_csv = pd.read_csv(csv_data)
 
     def fetch_json(self):
-        try:
-            response = requests.get(self.json_url)
-            response.raise_for_status()  
+        response = requests.get(self.json_url)
+        response.raise_for_status()
 
-            self.data_json = response.json()
-            print("JSON data fetched successfully.")
-        except requests.exceptions.RequestException as e:
-            print(f"Error fetching JSON: {e}")       
+        self.data_json = response.json()
