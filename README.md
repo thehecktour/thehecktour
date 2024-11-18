@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/thehecktour" target="blank"><img src="https://img.shields.io/twitter/follow/thehecktour?logo=twitter&style=for-the-badge" alt="thehecktour" /></a> </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thehecktour&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on [PokeAPI](https://github.com/PokeAPI)
