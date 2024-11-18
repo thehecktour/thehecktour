@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atilio Hector</h1>
-<h3 align="center">Software engineer who is involved in Open Source and Competitive Programming!</h3>
+<h3 align="center">Software engineer who is involved in Open Source!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehecktour&label=Profile%20views&color=0e75b6&style=flat" alt="thehecktour" /> </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thehecktour&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🌱 I’m currently learning **C++**
-
 - 👯 I’m looking to collaborate on [PokeAPI](https://github.com/PokeAPI)
-
-- 🤝 I’m looking for help with [Codeforces](https://codeforces.com/)
 
 - 💬 Ask me about **Python and AWS**
 
@@ -20,7 +16,6 @@
 <a href="https://twitter.com/thehecktour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thehecktour" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thehecktour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehecktour" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thehecktour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thehecktour" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thehector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thehector" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thehecktour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thehecktour" height="30" width="40" /></a>
 </p>
 
