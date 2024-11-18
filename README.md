@@ -5,7 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thehecktour&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 👯 I’m looking to collaborate on [PokeAPI](https://github.com/PokeAPI)
+- 👯 I’m looking to collaborate on [PokeAPI](https://github.com/PokeAPI) and [FastAPI](https://github.com/fastapi/fastapi)
 
 - 💬 Ask me about **Python and AWS**
 
