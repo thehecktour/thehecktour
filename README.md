@@ -11,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on [PokeAPI](https://github.com/PokeAPI)
 
-- 🤝 I’m looking for help with [Competitive Programming](https://codeforces.com/)
+- 🤝 I’m looking for help with [Codeforces](https://codeforces.com/)
 
 - 💬 Ask me about **Python and AWS**
 
 - 📫 How to reach me **thehacktour@gmail.com**
-
-- ⚡ Fun fact **I live in a city of 40 thousand inhabitants**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thehecktour&show_icons=true&locale=en" alt="thehecktour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehecktour&" alt="thehecktour" /></p>
