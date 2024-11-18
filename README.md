@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atilio Hector</h1>
-<h3 align="center">Software Engineer who loves Competitive Programming and Open Source.</h3>
+<h3 align="center">Software engineer who is involved in Open Source and Competitive Programming!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehecktour&label=Profile%20views&color=0e75b6&style=flat" alt="thehecktour" /> </p>
 
