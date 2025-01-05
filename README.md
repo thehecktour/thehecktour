@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atilio Hector</h1>
-<h3 align="center">A software engineer seeking to become a better person by using engineering as a pathway!</h3>
+<h3 align="center">Software engineer!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehecktour&label=Profile%20views&color=0e75b6&style=flat" alt="thehecktour" /> </p>
