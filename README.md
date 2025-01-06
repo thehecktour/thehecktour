@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atilio Hector</h1>
-<h3 align="center">Software engineer!</h3>
+<h3 align="center">A software engineer seeking to become a better person by using engineering as a pathway!</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehecktour&label=Profile%20views&color=0e75b6&style=flat" alt="thehecktour" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbKZujv-fL686GwvLr87kPWvgQFDOsbsk6QA&s" alt="thehecktour" /> </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thehecktour&bg_color=0d1117&color=ff9999&line=ff9999&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
