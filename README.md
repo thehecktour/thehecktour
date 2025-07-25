@@ -15,4 +15,3 @@ You can find me on:
 * [GitHub as @thehecktour (you are here)](https://github.com/thehecktour)
 * [LinkedIn](https://www.linkedin.com/in/thehecktour/)
 * [Instagram](https://www.instagram.com/thehecktour/)
-* [Youtube](https://www.youtube.com/@thehecktour)
