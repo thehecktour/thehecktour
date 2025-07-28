@@ -10,7 +10,6 @@ I love being involved in projects that scale to millions of people. 🚀
 
 You can find me on:
 
-* [My website: www.thehecktour.com](https://www.thehecktour.com/)
 * [Twitter as @thehecktour](https://x.com/thehecktour)
 * [GitHub as @thehecktour (you are here)](https://github.com/thehecktour)
 * [LinkedIn](https://www.linkedin.com/in/thehecktour/)
