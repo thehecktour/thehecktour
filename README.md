@@ -2,7 +2,7 @@ Hey! I'm **<a href="https://github.com/thehecktour" target="_blank">@thehecktour
 
 I'm a software developer from Brazil. 🇧🇷
 
-I created **<a href="https://github.com/thehecktour/devsapi" target="_blank">DevsAPI</a>**, the best place for software engineers to find information about other software engineers, such as salary at different companies, years in the career, how much languages pay in different countries, etc. 🐬
+I created **<a href="https://github.com/thehecktour/developersapi" target="_blank">DevelopersAPI</a>**, the best place for software engineers to find information about other software engineers, such as salary at different companies, years in the career, how much languages pay in different countries, etc. 🐬
 
 I'm passionate about martial arts, guard dog training, math, and creating videos for YouTube.
 
