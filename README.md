@@ -2,7 +2,7 @@ Hey! I'm **<a href="https://github.com/thehecktour" target="_blank">@thehecktour
 
 I'm a software developer from Brazil. 🇧🇷
 
-I created **<a href="https://github.com/thehecktour/developersapi" target="_blank">DevelopersAPI</a>**, the best place for software engineers to find information about other software engineers, such as salary at different companies, years in the career, how much languages pay in different countries, etc. 🐬
+I created **<a href="https://github.com/thehecktour/Kroterian" target="_blank">Kroterian</a>**, **<a href="https://github.com/thehecktour/Clicklet" target="_blank">Clicklet</a>**, **<a href="https://github.com/thehecktour/Patroa" target="_blank">Patroa</a>**, and some other open source tools you may or may not like. 🐬
 
 I'm passionate about martial arts, guard dog training, math, and creating videos for YouTube.
 
